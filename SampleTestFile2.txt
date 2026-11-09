@@ -1,1 +1,3 @@
+Git revert 1
+
 Esto es el archivo 2.
